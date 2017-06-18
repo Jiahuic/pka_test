@@ -286,7 +286,7 @@ REDUCED SURFACE ...
     0 free edge(s) found in component 0
     RS component  #faces  #edges #free_edges  #vertices   genus
          0         780     1170          0        365      13.5
-    Time Reduced Surface real: 0.02 user: 0.02 sys: 0.00
+    Time Reduced Surface real: 0.03 user: 0.02 sys: 0.00
 ANALYTICAL SOLVENT EXCLUDED SURFACE...
     Component   0
         Time Surface real: 0.01 user: 0.00 sys: 0.00
@@ -300,10 +300,10 @@ TRIANGULATION...
     Component 0
     component#, vertices,  edges,  faces, genus, density
         0           3983   11943    7962    0     1.199
-        Time Triangulation real: 0.01 user: 0.01 sys: 0.00
+        Time Triangulation real: 0.02 user: 0.01 sys: 0.00
 NUMERICAL VOLUMES AND AREA
     Comp. probe_radius SES_volume SES_area)
        0      1.40     7064.208   3143.703
     Total ses_volume:  7064.208
 MSMS terminated normally
-Total Time real: 0.07 user: 0.04 sys: 0.00
+Total Time real: 0.10 user: 0.05 sys: 0.01

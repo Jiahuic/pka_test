@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
     }
   fclose(fp);
 
-  for (i=1; i<3; i++) {
+  for (i=1; i<20; i++) {
 //  for (i=0; i<ntitrate; i++) {
   /* write uesr data input */
     fp = fopen("usrdata.in","w");
