@@ -2,4 +2,4 @@ main:
 	gcc -o main main.c
 
 clean: 
-	\rm main potential.txt
+	\rm main potential.txt msms.file
